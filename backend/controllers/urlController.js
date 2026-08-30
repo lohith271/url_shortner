@@ -1,5 +1,5 @@
-import Url from '../models/Url.js';
-import Click from '../models/Click.js';
+import Url from '../models/url.js';
+import Click from '../models/click.js';
 import { nanoid } from 'nanoid';
 
 function isValidUrl(string) {
